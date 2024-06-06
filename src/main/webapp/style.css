@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.logo {
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.pageTitle {
+	background-color:#8bbee5;    
+	color: #0a4987;
+    padding: 10px;
+    margin-top: 10px;
+}
